@@ -14,3 +14,4 @@ emacs dotdir/init.org
 emacs
 systemctl enable --user emacs.service
 systemctl start --user emacs.service
+mkdir -p ~/dev/{rust,elisp,haskell,python,shell}
